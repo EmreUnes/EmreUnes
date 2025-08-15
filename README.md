@@ -11,7 +11,7 @@ I enjoy building everything from **mobile apps** and **desktop tools** to **mult
 **My Skills and Techstack**
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,flutter,dart,js,ts,nodejs,vue,css,tailwind,html,postman,cloudflare,git,github,sentry,mongodb,supabase,gcp,ae,ai,ps,pr&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,flutter,dart,js,ts,nodejs,vue,css,tailwind,html,postman,cloudflare,git,github,sentry,mongodb,supabase,gcp,ae,ai,ps,pr&perline=7)]
 
 ---
 reach me: emreunes@proton.me
