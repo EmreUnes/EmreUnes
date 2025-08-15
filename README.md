@@ -8,6 +8,7 @@ I enjoy building everything from **mobile apps** and **desktop tools** to **mult
 - Building cross-platform applications. 
 - Combining technology with creative design in unique ways  
 
+  **My Skills and Techstack**
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,flutter,dart,js,ts,nodejs,vue,css,tailwind,html,cloudflare,git,github,ae,ai,ps,pr&perline=7)](https://skillicons.dev)
 
 reach me: emreunes@proton.me
