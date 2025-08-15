@@ -3,12 +3,12 @@
 I'm an **independent app & game developer** from Türkiye 🇹🇷,
 I enjoy building everything from **mobile apps** and **desktop tools** to **multiplayer games**, with a focus on creativity, usability, and performance.
 
-🚀 **Current Focus**
+**Current Focus**
 - Creating innovative games
 - Building cross-platform applications. 
 - Combining technology with creative design in unique ways  
 
-  **My Skills and Techstack**
+**My Skills and Techstack**
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,dotnet,flutter,dart,js,ts,nodejs,vue,css,tailwind,html,cloudflare,git,github,ae,ai,ps,pr&perline=7)](https://skillicons.dev)
