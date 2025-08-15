@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Emre 👋
 
-<!--
-**EmreUnes/EmreUnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **independent app & game developer** from Türkiye 🇹🇷,
+I enjoy building everything from **mobile apps** and **desktop tools** to **multiplayer games**, with a focus on creativity, usability, and performance.
 
-Here are some ideas to get you started:
+🚀 **Current Focus**
+- Creating innovative games
+- Building cross-platform applications. 
+- Combining technology with creative design in unique ways  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+reach me: emreunes@proton.me
+
+---
+
